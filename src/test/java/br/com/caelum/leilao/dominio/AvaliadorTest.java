@@ -1,9 +1,5 @@
-package br.com.caelum.leilao;
+package br.com.caelum.leilao.dominio;
 
-import br.com.caelum.leilao.dominio.Avaliador;
-import br.com.caelum.leilao.dominio.Lance;
-import br.com.caelum.leilao.dominio.Leilao;
-import br.com.caelum.leilao.dominio.Usuario;
 import org.junit.Assert;
 import org.junit.Test;
 
